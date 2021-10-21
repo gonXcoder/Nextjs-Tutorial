@@ -12,8 +12,8 @@ export default function Home() {
         <h3>HOME</h3>
         <Image
           src="https://lh3.googleusercontent.com/ogw/ADea4I7DFBur_bfj3iFlOGCtySHWP8sCsk_S94w5k7K9Tw=s32-c-mo"
-          width={200}
-          height={200}
+          width="200"
+          height="200"
         />
       </div>
     </div>

@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
+import Image from 'next/image';
 
 export default function Home() {
   return (
@@ -9,7 +10,7 @@ export default function Home() {
       </Head>
       <div className={styles.container}>
         <h3>HOME</h3>
-        <img src="/designer.svg" alt="" />
+        <Image src="/dessigner.svg" alt="sad" width={200} height={200} />
       </div>
     </div>
   );

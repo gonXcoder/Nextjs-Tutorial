@@ -9,6 +9,7 @@ export default function Home() {
       </Head>
       <div className={styles.container}>
         <h3>HOME</h3>
+        <img src="/designer.svg" alt="" />
       </div>
     </div>
   );
